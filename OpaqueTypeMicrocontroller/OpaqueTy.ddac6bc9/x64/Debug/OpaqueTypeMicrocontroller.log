@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\48571\source\repos\OpaqueTypeMicrocontroller\main.c(6,7): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+C:\Users\48571\source\repos\OpaqueTypeMicrocontroller\main.c(10,21): warning C4101: 'adsp': unreferenced local variable
+  OpaqueTypeMicrocontroller.vcxproj -> C:\Users\48571\source\repos\OpaqueTypeMicrocontroller\x64\Debug\OpaqueTypeMicrocontroller.exe
